@@ -1,0 +1,1 @@
+water,noodlspacket,fire,gasstove,kitchen,vesel,mother
